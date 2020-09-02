@@ -1,0 +1,34 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+#copyrights span a {
+color: #aaa;
+}
+
+#copyrights span a:hover {
+color: #ccc;
+}
+
+.anchor {
+	display: block;
+	padding-top: 70px;
+	margin-top: -70px;
+}
+.menu-link {
+	margin-top: 10px;
+	text-align: right;
+}
+
+.menu-link a {
+	text-decoration: underline!important;
+	font-size: 1rem;
+}
+
+.menu-link a:hover {
+	color: #F45D07;
+	text-decoration: none!important;
+
+}
